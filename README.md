@@ -1,1 +1,1 @@
-Hello! My name is Calvin Saputra. I'am a student at Multi Data Palembang University majoring in Information System. I'am currently learning about Laravel for Web Development, my next goal is create my own Website. Feel free to contact and give me feedbacks.
+Hello! My name is Calvin Saputra. I'm a student at Multi Data Palembang University majoring in Information System. Currently i'm learning about Laravel for Web Development, my next goal is create my own Website. Feel free to contact and give me feedbacks.
