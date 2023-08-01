@@ -1,1 +1,1 @@
-Hello! I'm Calvin Saputra, an Android developer with a focus on Kotlin and Android Programming. I graduated from Bangkit Academy, and I'm continuing to explore and excel in Android development. Let's connect and collaborate on exciting projects!
+Hello! I'm Calvin Saputra, an Android developer with a focus on Kotlin and Android Programming. I graduated from Bangkit Academy, and I'm continuing to explore and excel in both Android and Web development. Let's connect and collaborate on exciting projects!
