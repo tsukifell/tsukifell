@@ -1,5 +1,5 @@
 # 🌠 About Me:
-🧑 I'm a graduate from Multi Data Palembang University (Information Systems)<br>🌱 I'm currently learning Flutter for multiplatform development<br>💬 Ask me anything on my [email](calvinsaputra217@gmail.com)<br>⚡ I enjoy rhythm games, especially Pump it Up! (Still working on S14 onwards)
+🧑 I'm currently working as IT Support and Fullstack Developer<br>🌱 I'm continously learning Flutter for multiplatform development<br>💬 Ask me anything on my [email](calvinsaputra217@gmail.com)<br>⚡ I enjoy rhythm games, especially Pump it Up! (Still working on S17 onwards)
 
 
 ## 🌐 SNS:
