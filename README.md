@@ -1,5 +1,5 @@
 # 🌠 About Me:
-🧑 I'm currently working as an IT Support and Fullstack Developer<br>🌱 I'm continously learning Flutter for multiplatform development<br>💬 Ask me anything on my [email](calvinsaputra217@gmail.com)<br>⚡ I enjoy rhythm games, especially Pump it Up! (Still working on S17 onwards)
+🧑 I'm currently working as Fullstack Developer<br>🌱 I'm continously learning Flutter for multiplatform development<br>💬 Ask me anything on my [email](calvinsaputra217@gmail.com)<br>⚡ I enjoy rhythm games, especially Pump it Up! (Still working on S17 onwards)
 
 
 ## 🌐 SNS:
